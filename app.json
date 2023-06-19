@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "JobVault",
-    "slug": "JobVault"
+    "slug": "JobVault",
+    "extra": {
+      "eas": {
+        "projectId": "dd713781-530c-4527-9a53-dab2929525d9"
+      }
+    },
+    "android": {
+      "package": "com.amit_g840.JobVault"
+    }
   }
 }
