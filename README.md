@@ -1,8 +1,10 @@
-# JobVault 
+# JobVault - job finder app
+A job finder app built with react native. Download the apk for android by clicking on download button below \
+[Download apk](https://expo.dev/artifacts/eas/vpRCLwv75y7SZ9q7MLJTYR.apk) 
 
-[Download apk](https://expo.dev/artifacts/eas/vpRCLwv75y7SZ9q7MLJTYR.apk)
+## API used 
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+Jsearch API
 
 ## 🚀 How to use
 
